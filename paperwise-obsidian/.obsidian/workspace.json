@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "768cf5d4d4f30c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "db0375fe9f3de04d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f0b875874549854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/P_Generative Adversarial Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "84b8a4b502b18a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40606b8af0de5e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper Table View.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18095a59c34e81bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "486599173863f1ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5af87e0ec53b580",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c2987a96f7ce9bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b39244db0cc71d8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10ac1f674d1e45b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff749c91efe7a877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d36ae3d8e811aa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paper/P_Generative Adversarial Networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23510d9e056570b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paper/P_Generative Adversarial Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96c1cd31fe91079c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb6bb0fee3fb9a15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paper/P_Generative Adversarial Networks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f0b875874549854",
+  "lastOpenFiles": [
+    "Paper Table View.md",
+    "Paper/P_Generative Adversarial Networks.md",
+    "Paper"
+  ]
+}

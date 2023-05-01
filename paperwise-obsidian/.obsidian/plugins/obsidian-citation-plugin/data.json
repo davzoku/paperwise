@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "P_{{title}}",
+  "literatureNoteFolder": "Paper",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nshortTitle: {{titleShort}}\nalias: {{citekey}}\nauthors: {{authorString}}\nyear: {{year}}\nurl: {{URL}}\ntags: paper\ncodeUrl:\nisCodeAvailable:\n---\n\n## General Notes\n\n## New Ideas\n\n## Related Work\n\n## Future Work\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "../zotero/zotero.json"
+}
