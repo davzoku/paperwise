@@ -13,7 +13,7 @@ Paperwise is a systematic and streamlined research workflow for managing AI pape
 1. Seamless integration from paper discovery to paper management with Research Rabbit and Zotero
 2. Overcome Zotero's 300MB free file size limit with cloud storage providers like Google Drive using [ZotFile](http://zotfile.com/)
 3. Cross-platform sync of annotated PDFs across devices such as desktop, iOS devices and Android
-4. Populate annotation and paper metadata automatically into Obsidian using [Citation](/obsidian-plugins#citation) plugin.
+4. Populate annotation and paper metadata automatically into Obsidian using [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) plugin.
 
 ## Overview
 
